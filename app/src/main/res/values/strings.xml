@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ticketEmulator</string>
+    <string name="txtTitle"> Ticket Master </string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="prompt"> Select Group </string>
+    <string name="description">Concert Image</string>
+    <string name="btnCost">Find the Cost</string>
+    <string name="number_of_tickets">Number Of Tickets</string>
+
+    <string-array name="txtGroup">
+        <item>Beatles</item>
+        <item>Weezer</item>
+        <item>Green Day</item>
+    </string-array>
+</resources>
